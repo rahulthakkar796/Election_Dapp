@@ -17,7 +17,7 @@ Metamask: https://metamask.io/
 
 
 Step 1. Clone the project
-git clone
+git clone https://github.com/rahulthakkar796/Election_Dapp.git
 
 Step 2. Install dependencies  
 $ cd election 
