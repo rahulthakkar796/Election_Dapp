@@ -36,7 +36,6 @@ $ truffle migrate --reset You must migrate the election smart contract each time
 
 Step 5. Configure Metamask  
 
-See free video tutorial for full explanation of these steps:
 
 Unlock Metamask 
 
