@@ -1,5 +1,5 @@
 
-# Election - DAPP Tutorial (REVAMPED & MODERNIZED)
+# Election - DAPP Tutorial
 
 
 ## Getting Started
